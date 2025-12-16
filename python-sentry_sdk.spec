@@ -8,6 +8,7 @@ License:	MIT
 Group:		Development/Python
 BuildSystem:	python
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildArch:	noarch
 
 %description
