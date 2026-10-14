@@ -1,5 +1,5 @@
 Name:		python-sentry-sdk
-Version:	2.47.0
+Version:	2.72.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/s/sentry_sdk/sentry_sdk-%{version}.tar.gz
 Summary:	Python client for Sentry (https://sentry.io)
